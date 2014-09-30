@@ -21,3 +21,6 @@ C:\Users\admin\Dropbox\ACC\Personal programming projects\PDFtoExcel\PDFtoExcel\o
 C:\Users\admin\Dropbox\ACC\Personal programming projects\PDFtoExcel\PDFtoExcel\obj\Debug\PDFtoExcel.Properties.Resources.resources
 C:\Users\admin\Dropbox\ACC\Personal programming projects\PDFtoExcel\PDFtoExcel\obj\Debug\PDFtoExcel.csproj.GenerateResource.Cache
 C:\Users\admin\Dropbox\ACC\Personal programming projects\PDFtoExcel\PDFtoExcel\obj\Debug\PDFtoExcel.resultsForm.resources
+C:\Users\Derek\Dropbox\ACC\Personal programming projects\PDFtoExcel\PDFtoExcel\bin\Debug\PDFtoExcel.exe.config
+C:\Users\Derek\Dropbox\ACC\Personal programming projects\PDFtoExcel\PDFtoExcel\obj\Debug\PDFtoExcel.exe
+C:\Users\Derek\Dropbox\ACC\Personal programming projects\PDFtoExcel\PDFtoExcel\obj\Debug\PDFtoExcel.pdb

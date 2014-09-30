@@ -83,7 +83,7 @@ namespace PDFtoExcel
                     "Blank document", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }//end method convertbutton_click
 
-        private void btnOpen_Click(object sender, EventArgs e)
+        private void ToolStripOpen_Click(object sender, EventArgs e)
         {
             
             //Create a file dialog to select PDF file
